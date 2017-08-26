@@ -12,10 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-# weibo_username:     Fancybotpro
-# zhihu_username:     Fancybotpro
+weibo_username:     fancybot
+zhihu_username:     liu-can-bin
 github_username:    fancybot
 twitter_username:   fancybot
+   
 #facebook_username:  Fancybotpro
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -87,8 +88,12 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "ME",
+        title: "My gitpage",
         href: "http://fancybot.github.io"
+    },
+    {
+        title:"我的简书",
+        href: "http://www.jianshu.com/u/309a3a8ca282"
     }
     # ,{
     #     title: "乱序",
