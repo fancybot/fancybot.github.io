@@ -1,15 +1,31 @@
 
 
-> Yet another man.
+>Be a hero!
+
+>## When you are old
 
 
+>When you are old and gray and full of sleep,  
+And nodding by the fire, take down this book,  
+And slowly read, and dream of the soft look,  
+Your eyes had once, and of their shadows deep;  
+How many loved your moments of glad grace,  
+And loved your beauty with love false or true,  
+But one man loved the pilgrim soul in you,  
+And loved the sorrows of your changing face;  
+And bending down beside the glowing bars,  
+Murmur, a little sadly, how Love fled,  
+And paced upon the mountains overhead,  
+And hid his face among a crowd of stars.  
+
+<!-- 
 Hi, I am *@huxpro* (Huang, Xuan), a software engineer & a designer. I previously worked as Web Front-End Engineer at [Alibaba Trip](https://www.alitrip.com/); Web Front-End Infrastructure Team Lead at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity); And [Invited Consultant on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/).
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
+I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017. -->
 
 
-##### Talks
-
+<!-- ##### Talks -->
+<!-- 
 - [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
 - Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
 - The State of Progressive Web App · GDG IO Redux Beijing 2017
@@ -32,4 +48,4 @@ I studied Digital Media Art and graduated from [Communication University of Chin
 [8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
 [9]: //huangxuan.me/jsconfcn2017/
 
-
+ -->
