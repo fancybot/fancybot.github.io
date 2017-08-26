@@ -1,0 +1,52 @@
+http://blog.jobbole.com/78960/
+  
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+配置
+git 
+
+
+  git config --global user.email "cumt_liucanbin@126.com"
+  git config --global user.name "liu"
+
+
+git add readme.txt
+git commit -m "tell me something"
+git status
+git diff readme.txt 
+git add .
+git commit -m "add one more"
+
+
+//版本回退
+git log -–pretty=oneline
+
+git reset  -–hard HEAD^
+git reset  –-hard HEAD~100
+
+//撤销回退、恢复到回退前的版本
+git reflog  
+git reset  –-hard 版本号
+//版本号 前7位
+ 
+//已经提交到暂存区、回到暂存区里的状态
+git checkout readme.txt
+
+
+//同步到github 
+
+生成ssh秘钥
+ssh-keygen -C 'cumt_liucanbin@126.com' -t rsa
+
+直接使用、不加密
+每次都需要输入账号密码
+连接到远程仓库：
+git remote rm origin   //删除远程连接
+git remote add origin git@github.com:(用户名)/版本库名  //建立远程连接//ssh
+git remote add origin git@github.com:fancybot/fancybot.github.io.git
+git remote add origin https://github.com/fancybot/fancybot.github.io.git  //使用https连接、每次都需要输入账号密码、使用ssh则不需要
+
+
+git push -u origin master//首次使用、指定默认连接
+git push //直接使用
